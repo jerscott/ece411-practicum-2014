@@ -4,5 +4,10 @@
 // ccarmen@pdx.edu
 // nsl2@pdx.edu
 
-<2014.10.05 nslj> Initial readme added
+<2014.10.05 nslj> 
+   - Initial readme added
+   - Added Carmen's decision matrix
+   - Added Carmen's project proposals
+   
+  
   
