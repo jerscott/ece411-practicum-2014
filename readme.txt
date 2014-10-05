@@ -6,8 +6,9 @@
 
 <2014.10.05 nslj> 
    - Initial readme added
-   - Added Carmen's decision matrix
-   - Added Carmen's project proposals
-   
+   - Added Carmen's decision matrix to repo
+   - Added Carmen's project proposals to repo
+   - Added Nick's project proposal to repo
+   - Added Jeremiah's project proposals to repo
   
   
