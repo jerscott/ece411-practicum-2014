@@ -8,7 +8,7 @@
    - Initial readme added
    - Added Carmen's decision matrix to repo
    - Added Carmen's project proposals to repo
-   - Added Nick's project proposal to repo
    - Added Jeremiah's project proposals to repo
-  
+   - Added Nick's project proposals to repo
+   - Added Deb's project proposals to repo
   
