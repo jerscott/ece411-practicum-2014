@@ -16,3 +16,8 @@
 <2014.10.05 dd> 
    - Added personal scoring to decision matrix
    - updated readme 
+
+<2014.10.05 ccarmen> 
+   - Added personal scoring to decision matrix
+   - Added approx. cost for my proposals
+   - updated readme 
