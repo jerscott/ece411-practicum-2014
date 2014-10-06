@@ -11,4 +11,5 @@
    - Added Jeremiah's project proposals to repo
    - Added Nick's project proposals to repo
    - Added Deb's project proposals to repo
+   - Added personal scoring to decision matrix
   
