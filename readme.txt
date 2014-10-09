@@ -17,7 +17,7 @@
    - Added personal scoring to decision matrix
    - updated readme 
 
----2014.10.05 ccarmen---
+---2014.10.06 ccarmen---
    - Added personal scoring to decision matrix
    - Added approx. cost for my proposals
    - updated readme 
@@ -28,3 +28,6 @@
 
 ---2014.10.08 nslj---
    - Added theoretical block diagram for belt project   
+
+---2014.10.09 ccarmen---
+   - Added meeting minutes on Wiki 
