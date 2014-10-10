@@ -31,3 +31,4 @@
 
 ---2014.10.09 ccarmen---
    - Added meeting minutes on Wiki 
+   - Added decision matrix 
