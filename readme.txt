@@ -46,12 +46,8 @@
    - New stage folder created
 
 
-<<<<<<< Updated upstream
-=======
->>>>>>> FETCH_HEAD
-
 ---2014.10.11 ccarmen—--
    - Added LED options powerpoint
 
 
->>>>>>> Stashed changes
+
