@@ -35,5 +35,11 @@
 ---2014.10.11 dd---
    -Added color sensing proposals
 
+
 ---2014.10.11 nslj---
    -Added system overview block diagram
+
+   
+---2014.10.11 jerscott---
+   -Added power and vague proposals
+
