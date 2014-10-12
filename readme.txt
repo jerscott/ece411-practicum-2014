@@ -31,19 +31,18 @@
 
 ---2014.10.09 ccarmen---
    - Added meeting minutes on Wiki 
-<<<<<<< HEAD
    - Added decision matrix 
-=======
+
  
 ---2014.10.11 dd---
-   -Added color sensing proposals
-
-
----2014.10.11 nslj---
-   -Added system overview block diagram
+   - Added color sensing proposals
 
    
 ---2014.10.11 jerscott---
-   -Added power and vague proposals
+   - Added power and vague proposals
 
->>>>>>> FETCH_HEAD
+---2014.10.11 nslj---
+   - Added system overview block diagram
+   - New stage folder created
+
+
