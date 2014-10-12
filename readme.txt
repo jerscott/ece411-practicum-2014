@@ -31,3 +31,6 @@
 
 ---2014.10.09 ccarmen---
    - Added meeting minutes on Wiki 
+ 
+---2014.10.11 dd---
+   -Added color sensing proposals
