@@ -53,7 +53,7 @@
 ---2014.10.11 ccarmen—--
    - Added LED options powerpoint
 
----2014.10.12---
+---2014.10.12 jerscott---
    - Added updated Practicum Proposal
 
 
