@@ -45,6 +45,10 @@
    - Added system overview block diagram
    - New stage folder created
 
+---2014.10.12 nslj---
+   - Reorganized file folders to reflect latest updates (for observers)
+   - Added the alternate proposals write up for HW2
+
 
 ---2014.10.11 ccarmen—--
    - Added LED options powerpoint
