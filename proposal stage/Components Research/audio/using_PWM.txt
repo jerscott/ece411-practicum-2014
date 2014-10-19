@@ -1,0 +1,5 @@
+http://extremeelectronics.co.in/avr-tutorials/sound-generation-by-avr-micro-tutorial-i/
+
+http://avrpcm.blogspot.com/2010/11/playing-8-bit-pcm-using-any-avr.html
+
+http://www.digikey.com/es/articles/techzone/2012/jul/choosing-an-mcu-for-audio-captureplayback
